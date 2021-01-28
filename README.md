@@ -1,2 +1,2 @@
 # night
-A discord bot
+Night discord bot created by mar;s, forked from nypsi by tekoh
